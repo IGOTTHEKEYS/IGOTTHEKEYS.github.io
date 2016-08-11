@@ -22,57 +22,7 @@ h2{
 }
 
 a {
-    color: #32763F;
-    text-decoration: none;
-}
-
-a:visited {
-    color: #9FC080;
-    text-decoration: none;
-}
-
-img{
-    padding: 15px;
-}
-
-.headshot{
-    float:right;
-    height: 360px;
-    padding-top:0px;
-}
-
-.textbox {
-    width:70%;
-    color: white;
-    font-size: 110%;
-    background:gray;
-    padding: 4px;
-    border:1px solid white;
-}
-
-.button {
-    background: white;
-    font-size: 110%;
-    color:gray;
-    padding: 4px;
-    border:2px solid white;
-}
-
-.redacted{
-    background-color: #D7CEC7;
-    color: #D7CEC7;
-}
-
-.half{
-    width: 48%;
-    float: left;
-}
-
-.box { 
-    width: 250px;
-    margin: 15px;
-    display: inline-block;
-    vertical-align: top;   
+   
 }
 .box img{
     margin: 0;
